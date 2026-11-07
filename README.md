@@ -10,3 +10,9 @@ Afiches ilustrativos por servicio. No se deben presentar como fotografías verif
 
 ## Configuración Pages
 Framework: None. Build command: vacío. Build output directory: raíz `/`.
+
+
+## Versión 2.1 - Redes sociales
+Se agregó sección Redes sociales con TikTok oficial @xixom.p. Facebook e Instagram permanecen identificados como pendientes hasta tener los enlaces exactos; no se publican URLs inventadas.
+
+Facebook: https://www.facebook.com/share/1CkfDnfRt9/ (enlace suministrado por el propietario).
